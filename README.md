@@ -34,3 +34,36 @@ The contents of this training includes the following contents:
 ## Section 1: Introduction:
 
 ### Introduction to IC design components:
+ * This course mainly focuses on the basic tools needed to IC design and simulations.
+ * The components available to perform RTL to GDSII flow (IC Design components) includes,
+   * **Qflow -** Tool chain (like Yosys, Gray wolf, Qrouter) for the complete RTL to GDSII flow.
+     * **Yosys open synthesis suite** - RTL netlist is converted to synthezised netlist (a netlist which is converted to gates which operates in the same way as the RTL netlist operates).
+     * **Gray wolf**:
+       * This is the tool which performs **floorplan, placement and Clock tree synthesis (CTS)**
+       * **Floorplan** is the stage after synthesis. We do a planning, place the pre-placed cells, plan the power distribution, etc
+       * **Placement** is the stage after floorplaning. We place the logical cells that we have got after the synthesis stage.
+       * **Clock tree synthesis (CTS)** is the stage after placement. Here we route the clock in such a fashion that the skew is zero or almost equal to the estimated value by the designer.  
+     * **Qrouter** - The next step is Routing after CTS, which routes all the components that is being placed in the placement stage.
+   * **Opentimer:**
+     * After each step in the flow Static Timing Analysis need to be performed to analyse the design at each and every step. (Open source high performance timing analysis tool)
+   * **Magic - Layout viewer:** After each stage in the flow, if the layout is to be viewed then this is used. (VLSI layout editor, extraction and DRC tool)
+   * **ngSpice:** This tool is used to analyse the pre and post simulations after a specific stage, which will indicate the effect of parasites on the design. (General purpose circuit simulation for non-linear and linear analyses)
+   * **eSim:** A complex circuit analysis can be performed, SPICE simulation, analysis and PCB design.
+   * **Virtual box:** Only for windows user, who wish to install Linux OS.
+
+## Section 2: Steps to install open-source EDA tools on Ubuntu:
+
+### Download oracle virtual box and Ubuntu:
+  * Open Google browser and type as **Oracle virtualbox and then click on Downloads**.
+    
+
+
+
+
+
+
+
+
+
+
+
