@@ -111,7 +111,7 @@ The contents of this training includes the following contents:
 
 ![ubuntu_VM7](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/149ef6eb-5e77-44f2-9f7a-3ff1bb941c78)
 
-* C
+* Click on **Start**
 
 
 
