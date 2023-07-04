@@ -82,8 +82,36 @@ The contents of this training includes the following contents:
 
 ### Configure virtual box to add Ubuntu ISO:
 
+* After the ubuntu file is been downloaded place it in a disk which has more space.
+* Click on the properties of **This PC** and notice number of RAM your system have and the type of system, if it is 32 bit or 64 bit.
+* Open VM and click on **new**.
 
+![ubuntu_VM](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/aa257461-f6dd-40bb-bd09-6e9c2d393ef9)
 
+* Enter the name of the virtual machine, path of the folder (normally the disk with more space), select the type of OS to be **Linux** and finally select **Ubuntu 64-bit**.
+
+![ubuntu_VM1](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/4caf9f1f-b4cb-4c5f-a6b0-450469e8b214)
+
+* **Base memory** must be atleast 3GB in size. If the RAM in your system is 4GB the keep the base memory to be 3GB, else the system will get slower. (In the course the RAM was 16GB, thus for the base memory it was choosen 8GB)
+
+![ubuntu_VM2](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/f85a1456-f678-4bc4-ac49-89118a5f9411)
+
+![ubuntu_VM3](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/65867414-4f2d-489d-b29e-99b9da8b7aa2)
+
+* A step may appear which will ask for the size of virtual machine to be allocated. Allocate atleast 40GB of memory out of 2TB of memory of the drive of what we have.
+* The virtual machine has been installed by the given name.
+  
+![ubuntu_VM4](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/2cafca65-e0eb-4b0a-aae5-292919354b5a)
+
+* Under storage we have a option as **Optical drive which is empty**. Here we will have to select the ubuntu version of what we have downloaded. So that that version of ubuntu will be present in the Virtual machine  
+
+![ubuntu_VM5](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/c322bd09-a2c2-4d9f-bfdf-6ec7e709d49f)
+
+![ubuntu_VM6](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/1710e3a3-d035-4a90-b1e3-296fe5e28ed1)
+
+![ubuntu_VM7](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/149ef6eb-5e77-44f2-9f7a-3ff1bb941c78)
+
+* C
 
 
 
