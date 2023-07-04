@@ -56,6 +56,32 @@ The contents of this training includes the following contents:
 ### Download oracle virtual box and Ubuntu:
   * Open Google browser and type as **Oracle virtualbox and then click on Downloads**.
     
+![Screenshot 2023-07-04 122924](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/f89b92bf-3dc7-4944-bbbe-fef563440d7a)
+
+  * Next click on **Windows host** and then **save the particular file** and then place the downloaded **exe** in the disk where you have got enough space to install the tool.
+
+![windows_host](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/1eeddb66-d2ff-44f5-b593-f1eae336577e)
+
+![saved_in_disk_with_more_space](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/52dc02df-7469-439a-8b31-02c4a8f3c631)
+
+  * Start installing the oracle virtual box keeping everyting as default.
+
+![oracle_VM_installation](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/0bed507e-3be0-4a25-8a4b-372e8fe0fda6)
+
+  * After installation the oracle VM looks as shown (will not contain vsdpdworkshop - this is my earlier saved session)
+
+![oracle_VM](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/7f01f28d-0a28-48d9-8ff6-63c6d0c48e70)
+
+  * Next step is to download Ubuntu on the Virtual machine, type **Linux Ubuntu ISO** in chrome and the click on **Download Ubuntu desktop**.
+
+![ubuntu_download](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/5f25d338-c76b-44ca-aabd-830516cf31bb)
+
+  * Download any ubuntu image place the downloaded file in the disk where you have got enough space to install the tool.
+
+![ubuntu_download_img](https://github.com/shubhagore/a_complete_guide_to_install_OpenSource_EDA_tools_SG/assets/135098553/e2f234d6-b475-4241-9cb8-8d384a4b9a0c)
+
+### Configure virtual box to add Ubuntu ISO:
+
 
 
 
